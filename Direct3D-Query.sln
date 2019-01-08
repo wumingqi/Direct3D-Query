@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct3D-Query", "Direct3D-Query\Direct3D-Query.vcxproj", "{D0D9B6BD-8B29-4AE0-AC6B-269325597EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D9B6BD-8B29-4AE0-AC6B-269325597EF7}.Debug|x64.ActiveCfg = Debug|x64
+		{D0D9B6BD-8B29-4AE0-AC6B-269325597EF7}.Debug|x64.Build.0 = Debug|x64
+		{D0D9B6BD-8B29-4AE0-AC6B-269325597EF7}.Release|x64.ActiveCfg = Release|x64
+		{D0D9B6BD-8B29-4AE0-AC6B-269325597EF7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8ADA94-3D87-46EC-8452-132BEDFFAB50}
+	EndGlobalSection
+EndGlobal
